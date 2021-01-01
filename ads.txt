@@ -1,0 +1,26 @@
+# This is the low security list.
+# 
+#
+# This list if for people who do not want to block much.
+#
+#
+#
+#
+# 2020 jack reetz
+
+
+#[greatwolf.com]#
+0.0.0.0 d.turn.com
+0.0.0.0 s.yimg.com
+0.0.0.0 googletagmaanager.com
+0.0.0.0 fg8vvsvnieiv3ej16jby.litix.io
+0.0.0.0 analytics.googleapis.com
+#[google.com]
+0.0.0.0 adservice.google.com
+0.0.0.0 googleleadservices.google.com
+#[tiktok.com]
+0.0.0.0 analytics.tiktok.com
+#[amazon.com]
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+
