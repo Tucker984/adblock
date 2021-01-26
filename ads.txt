@@ -7,20 +7,15 @@
 #
 #
 # 2020 jack reetz
-
-
-#[greatwolf.com]
 d.turn.com
 s.yimg.com
 googletagmaanager.com
 fg8vvsvnieiv3ej16jby.litix.io
 analytics.googleapis.com
-#[google.com]
 adservice.google.com
 googleleadservices.google.com
-#[tiktok.com]
 analytics.tiktok.com
-#[amazon.com]
 s.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+anaytics.google.com
 
