@@ -15,12 +15,20 @@ you are more than welcome to add any domains to the list that you think that nee
 
 #TODO
 
-#add more lists
-#add botnet domains
-#add more tracking domains
-#add youtube trackers/cookies
-#add youtube video ads
-#add hulu trackers
-#add windows scammer sites
-#add microsoft trackers
-#add google anylytics X
+add more lists
+
+add botnet domains
+
+add more tracking domains
+
+add youtube trackers/cookies
+
+add youtube video ads
+
+add hulu trackers
+
+add windows scammer sites
+
+add microsoft trackers
+
+add google anylytics X
