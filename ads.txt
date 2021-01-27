@@ -1,3 +1,14 @@
+#This is the general add block list
+#
+#
+#
+#  
+#  
+#
+# 
+#
+# 2021 jack reetz
+
 analytics.google.com
 log.zoom.us
 logfiles-va-3.zoom.us
@@ -47,3 +58,8 @@ zoomus.zendesk.com
 zopim.com
 analytics.tiktok.com
 googletagmanager.com
+cdn.optimizely.com
+vortex.hulu.com
+pipedream.wistia.com
+static.doubleclick.net
+aax-us-east.amazon-adsystem.com  
