@@ -63,3 +63,7 @@ vortex.hulu.com
 pipedream.wistia.com
 static.doubleclick.net
 aax-us-east.amazon-adsystem.com  
+s.youtube.com
+mobile.pipe.aria.microsoft.com
+api.amplitude.com
+msmetrics.ws.sonos.com
