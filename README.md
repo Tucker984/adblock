@@ -25,10 +25,14 @@ add youtube trackers/cookies
 
 add youtube video ads
 
-add hulu trackers
+add hulu trackers X
 
 add windows scammer sites
 
-add microsoft trackers
+add microsoft trackers X
 
 add google anylytics X
+
+# updates
+
+stay tuned!
