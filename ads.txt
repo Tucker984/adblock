@@ -1,4 +1,4 @@
-#This is the general add block list
+#This is the block list for pihole
 #
 #
 #
@@ -67,3 +67,8 @@ s.youtube.com
 mobile.pipe.aria.microsoft.com
 api.amplitude.com
 msmetrics.ws.sonos.com
+bonusjunkies.co
+taicheetee.com
+raresforyouall.wixsite.com
+js-agent.newrelic.com
+
